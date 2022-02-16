@@ -77,7 +77,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ANUSER1/COSMO
+$ https://github.com/flashyt/COSMIC
 $ cd COSMO
 $ chmod +x *
 $ npm i
